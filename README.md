@@ -92,4 +92,11 @@ The results are as below (30 epochs unless stated):
 * Due to the unbalanced datasets, we implements **class weights** and experimented with different values of class weights in `SVD_2.ipynb`. We found that the ratio of `1:5` and `1:3` **(Non-vul:Vul)** is good to balance the information acquired from both of the classes (**Vulnerable/Non-vulnerable**).
 
 
+#### Progress and items undergoing
+
+1. dor get one package done for phase1
+2. FSE reuse artifact, get three accepted and pdf revised, gonna check how to submit these revised PDF.   
+3. Organize the source code for Lexer into a github repo. 
+4. baseline: finish preprocessing the source code function dataset, but the pineline and training process is still undergoing, expect to get results next week:
+
 ![image](https://user-images.githubusercontent.com/42615731/126677086-9a0d6ab0-5267-452d-a217-0034573eb89a.png)
