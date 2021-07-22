@@ -90,3 +90,6 @@ The results are as below (30 epochs unless stated):
 * The size of `maxpool` is not mentioned in the paper. Therefore, in `SVD_2.ipynb` , we experimented with different sizes of maxpool. To achieve a suitable value that can maximizes the learning process when the max-pooling process occurs across the convolutions. We found that the size of `3-4` is fairly effective to capture the information across the source code embeddings
 
 * Due to the unbalanced datasets, we implements **class weights** and experimented with different values of class weights in `SVD_2.ipynb`. We found that the ratio of `1:5` and `1:3` **(Non-vul:Vul)** is good to balance the information acquired from both of the classes (**Vulnerable/Non-vulnerable**).
+
+
+![image](https://user-images.githubusercontent.com/42615731/126677086-9a0d6ab0-5267-452d-a217-0034573eb89a.png)
