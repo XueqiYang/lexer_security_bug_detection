@@ -102,3 +102,4 @@ The results are as below (30 epochs unless stated):
 
 ![image](https://user-images.githubusercontent.com/42615731/126677086-9a0d6ab0-5267-452d-a217-0034573eb89a.png)
 
+https://docs.google.com/spreadsheets/d/1JA683crLRDGrwGWqssHlLlf-4zPn4UUmgsF0WmIBanI/edit#gid=1399012663
